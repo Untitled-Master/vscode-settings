@@ -1,24 +1,16 @@
 {
-  "security.workspace.trust.untrustedFiles": "open",
-  "editor.formatOnSave": true,
-  "vscode_custom_css.imports": [
-    "file:///c:/Users/WINDOWS 11/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
-  ],
-  "animations.Enabled": true,
-  "go.enableCodeLens": {
-    "runtest": false
-  },
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.productIconTheme": "el-vsc-v1-icons",
-  "npm.keybindingsChangedWarningShown": true,
-  "chat.editing.alwaysSaveWithGeneratedChanges": true,
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false,
-    "c": false
-  },
-  "workbench.iconTheme": "icons",
-  "workbench.colorTheme": "Theme Darker"
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "c": false
+    },
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "vscode_custom_css.imports": []
 }
