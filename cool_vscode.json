@@ -1,4 +1,7 @@
 {
+  "editor.cursorStyle": "line",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
   "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
   "workbench.editor.showTabs": "single",
   // change when needed to open the extension
@@ -18,7 +21,7 @@
   "explorer.confirmDelete": false,
   "explorer.decorations.badges": false,
   "git.decorations.enabled": false,
-  "window.zoomLevel": 3,
+  "window.zoomLevel": 2,
   "window.customTitleBarVisibility": "never",
   "window.titleBarStyle": "native",
   "custom-ui-style.electron": {
@@ -51,8 +54,6 @@
     ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #ffaffc 10%, #DA70D6 100%)"
   },
   "editor.multiCursorModifier": "ctrlCmd",
-  "editor.cursorBlinking": "solid",
-  "editor.cursorStyle": "block",
   "workbench.colorCustomizations": {
     "editorCursor.background": "#000000",
     "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
